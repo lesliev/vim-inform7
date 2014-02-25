@@ -1,0 +1,6 @@
+This syntax file is licenced under the same terms as Vim (charityware) and can
+be freely distributed with or without Vim.
+
+For the full license text at the time of writing, see:
+http://vimdoc.sourceforge.net/htmldoc/uganda.html#license 
+
